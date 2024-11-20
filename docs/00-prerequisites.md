@@ -4,7 +4,7 @@
 1. Service mesh 
 1. OpenShift AI
 1. MLFlow
-1. Create demo Template
+1. demo Template
 
 
 
