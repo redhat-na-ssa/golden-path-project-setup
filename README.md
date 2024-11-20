@@ -2,7 +2,7 @@
 
 
 ## Description
-This README.md contains setup instructions for the NA-Hobbyist team's AI-Odyssey 2025 submission (product)
+This README.md contains setup instructions for the NA-Hobbyist team's AI-Odyssey 2025 demo
 
 
 ## Architecture
