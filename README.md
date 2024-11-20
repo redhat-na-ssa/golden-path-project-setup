@@ -25,7 +25,7 @@ For questions and/or support please contact [bball@redhat.com](mailto:bball@redh
 1. David White      - Object Detection Code
 1. Arun Hariharan   - Developer Hub UI
 1. Tommy Hamilton   - Team gopher
-1. Audrey Guider    - Team gopher
+1. Audrey Guidera   - Team gopher
 
 ## License
 MIT License used
