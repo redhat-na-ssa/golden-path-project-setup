@@ -21,7 +21,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 For questions and/or support please contact [bball@redhat.com](mailto:bball@redhat.com?subject=Question%20Re:%20NA-Hobbyist-AI-Odyssey-2025)
 
 ## Authors and acknowledgment
-0. Brian Ball       - Golden Template
+1. Brian Ball       - Golden Template
 1. David White      - Object Detection Code
 1. Arun Hariharan   - Developer Hub UI
 1. Tommy Hamilton   - Team gopher
