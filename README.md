@@ -11,9 +11,9 @@ Depending on what you are making, it can be a good idea to include screenshots o
 ## Setup Steps
 
 0. [Prerequisite](/docs/00-prerequisite.md)
-1. [Add Trusted Application Pipeline](https://catalog.demo.redhat.com/catalog?item=babylon-catalog-prod/enterprise.redhat-tap-demo.prod&utm_source=webapp&utm_medium=share-link)
+1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
 1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md)
-1. [Clone mlflow on ocp](https://github.com/redhat-na-ssa/mlflow-on-ocp)
+1. [Clone mlflow on ocp](/docs/03-clone-mlflow.md)
 1. [Log into Red Hat Developer Hub and add Golden Path Template](/docs/04-deploy-golden-path.md)
 1. [Create the template](/docs05-create-template.md)
 
