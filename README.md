@@ -10,7 +10,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 ## Setup Steps
 
-0. [Prerequisite](/docs/00-prerequisite.md)
+0. [Prerequisites](/docs/00-prerequisites.md)
 1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
 1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md)
 1. [Clone mlflow on ocp](/docs/03-clone-mlflow.md)
