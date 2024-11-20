@@ -28,7 +28,7 @@ For questions and/or support please contact [bball@redhat.com](mailto:bball@redh
 1. Audrey Guidera   - Team gopher
 
 ## License
-MIT License used
+GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Project status
 Initial project UI, architecture, codebase almost completed for Dec 6 submission
