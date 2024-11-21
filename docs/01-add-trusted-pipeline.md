@@ -6,3 +6,4 @@ To access the platform and begin installation of the pipeline, click [here](http
 
 You will see the following set of screens appear:
 
+<img="/docs/demo-system.png>
