@@ -20,12 +20,12 @@ Depending on what you are making, it can be a good idea to include screenshots o
 ## Support
 For questions and/or support please contact [bball@redhat.com](mailto:bball@redhat.com?subject=Question%20Re:%20NA-Hobbyist-AI-Odyssey-2025)
 
-## Authors and acknowledgment
-1. Brian Ball       - Golden Template
-1. David White      - Object Detection Code
-1. Arun Hariharan   - Developer Hub UI
-1. Tommy Hamilton   - Team gopher
-1. Audrey Guidera   - Team gopher
+## NA Hobbyist team:
+1. Brian Ball       
+1. David White      
+1. Arun Hariharan   
+1. Tommy Hamilton  
+1. Audrey Guidera   
 
 ## License
 GNU AFFERO GENERAL PUBLIC LICENSE
