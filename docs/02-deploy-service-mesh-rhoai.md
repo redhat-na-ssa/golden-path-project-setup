@@ -8,13 +8,16 @@ Upon login, you should see an OpenShift dashboard.<br>
 
 ![](/images/OCPDashboard.gif) <br>
 
-We will use this dashboard to install KServe and Red Hat OpenShift AI (RHOAI). <br>
+We will use this dashboard to install KServe and Red Hat OpenShift AI (RHOAI). 
+ First, we will need to switch from 'All Clusters' to your 'local-cluster'.  
+ 
+ In the upper left hand corner of the dashboard, click on the 'All Clusters' drop down.  Choose 'local-cluster'<br>
 
+![](/images/Change2-localCluster.gif) <br>
 
+Now you will be in 'your' local OpenShift cluster.
 
-
-
-
+![](/images/your-local-cluster.gif) <br>
 
 
 
