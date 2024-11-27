@@ -17,7 +17,7 @@ We will use this dashboard to install KServe and Red Hat OpenShift AI (RHOAI).
 
 Now you will be in 'your' local OpenShift cluster.
 
-![](/images/your-local-cluster.gif) <br>
+![](/images/your-local-cluster.gif)
 
 
 
