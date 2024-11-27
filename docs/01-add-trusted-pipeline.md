@@ -4,16 +4,16 @@ You can find the Trusted Application Pipeline in the Red Hat Demo Platform.  To 
 
 Once you see the following screen appear, press the "Order" button
 
-![](/images/demo-system.gif)
+![](/images/demo-system.gif)<br>
 
 You will need to fill out various options for your service.  Use the below form contents as a guide.  Once you are done, press the "Order" button.
 
-![](/images/demo-options2.gif)
+![](/images/demo-options2.gif)<br>
 
 Once you have finished ordering the service, wait until it is installed.  After your service has been installed you will see the following items listed in your newly created Red Hat Trusted Pipeline cluster 
 
 ![](/images/options1.gif) <br>
-![](/images/options2.gif)
+![](/images/options2.gif) <br>
 
 Next, you will next need to deploy RHOAI and service mesh in your cluster.  
 
