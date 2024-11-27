@@ -10,7 +10,7 @@ Once you see the following screen appear, press the "Order" button
 
 You will need to fill out various options for your service.  Use the below form contents as a guide.  Once you are done, press the "Order" button.
 
-![](/images/demo-options.gif)
+![](/images/demo-options2.gif)
 
 
 Once you have finished ordering the service, wait until it is installed.  You will next need to deploy service mesh and RHOAI in your cluster.
