@@ -1,6 +1,6 @@
 ## Add Red Hat OpenShift AI and Service Mesh to your cluster
 
-You need to log into your OpenShift cluster
+Log into your OpenShift cluster
 
 From the Trusted Application Pipeline options, look for the Red Hat OpenShift option.  Use the displayed Console URL, and supplied Username and Password to log into OpenShfit.
 
@@ -31,15 +31,15 @@ Let's install the RHOAI Operator:
 
 ![](/images/install-RHOAI.gif)<br><br>
 
-The 'install' screen will appear.  Press 'Install' to begin the installation process.
+The 'Install' screen will appear.  Press 'Install' to begin the installation process.
 
-![](/images/install-RHOAI2.gif)<br<br>
+![](/images/install-RHOAI2.gif)<br><br>
 
 An 'Install Operator' screen will appear with default RHOAI options.  Keep the default options, and press 'Install' to continue the installation.<br>
 
 ![](/images/continue-RHOAI-install.gif)<br><br>
 
-The RHOAI operator will begin to install.  Upon installation completion, you will need to install the DataScience Cluster 'DSC' custom resource.  Press the 'Create DataScience Cluster' button to start the DSC installation.
+The RHOAI operator will begin to install.  Upon completion, next install the DataScience Cluster 'DSC' custom resource.  Press the 'Create DataScience Cluster' button to start the DSC installation.
 
 ![](/images/DSC-install.gif)<br><br>
 
@@ -47,9 +47,19 @@ The Create DataScience Cluster form will appear with default options.  Keep the 
 
 ![](/images/create-DSC.gif)<br><br>
 
+Notice that the DataScience cluster appears within the Red Hat OpenShift AI Operator details.
 
-<br><br>
-Next, you will next need to clone MLFlow  
+![](/images/DSC-details.gif)<br><br>
+
+To check your RHOAI operator installation, from the left hand menu, choose 'Operators->Installed Operators'.  &nbsp; Search for the 'Red Hat OpenShift AI' operator.
+
+![](/images/RHOAI-installed-operator.gif)<br><br>
+
+Now that RHOAI Operator has been installed, you will need to install the Service Mesh operator.
+
+1. From the 'Operators' menu: choose 'OperatorHub'
+1. In the search field search for 'Red Hat OpenShift AI'
+1. Select the "Red Hat OpenShift AI" placard to install RHOAI
 
 <p align="center">
 <a href="docs/01-add-trusted-pipeline.md">Prev</a>
