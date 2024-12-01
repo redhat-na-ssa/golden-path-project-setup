@@ -26,10 +26,26 @@ Now you will be in 'your' local OpenShift cluster.
 Let's install the RHOAI Operator:  
 1. From the 'Operators' menu:  choose 'OperatorHub' 
 1. In the search field search for 'Red Hat OpenShift AI'
-1. Select the "Red Hat OpenShift AI" placard to install RHOAI
+1. Select the "Red Hat OpenShift AI" placard to install RHOAI <br>
 
 
-![](/images/install-RHOAI.gif)
+![](/images/install-RHOAI.gif)<br><br>
+
+The 'install' screen will appear.  Press 'Install' to begin the installation process.
+
+![](/images/install-RHOAI2.gif)<br<br>
+
+An 'Install Operator' screen will appear with default RHOAI options.  Keep the default options, and press 'Install' to continue the installation.<br>
+
+![](/images/continue-RHOAI-install.gif)<br><br>
+
+The RHOAI operator will begin to install.  Upon installation completion, you will need to install the DataScience Cluster 'DSC' custom resource.  Press the 'Create DataScience Cluster' button to start the DSC installation.
+
+![](/images/DSC-install.gif)<br><br>
+
+The Create DataScience Cluster form will appear with default options.  Keep the default options, and press 'Create' to create the DataScience Cluster.
+
+![](/images/create-DSC.gif)<br><br>
 
 
 <br><br>
