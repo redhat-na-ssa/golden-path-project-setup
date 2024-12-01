@@ -2,25 +2,32 @@
 
 You will need to log into OpenShift.  From the Trusted Application Pipeline options, look for the Red Hat OpenShift option.  Use the displayed Console URL, and supplied Username and Password to log into OpenShfit.
 
-![](/images/loginOCP.gif) <br>
+![](/images/loginOCP.gif) <br><br>
 
 Upon login, you should see an OpenShift dashboard.<br>
 
 ![](/images/OCPDashboard.gif) <br>
 
 We will use this dashboard to install KServe and Red Hat OpenShift AI (RHOAI). 
- First, we will need to switch from 'All Clusters' to your 'local-cluster'.  
+ First, we will need to switch from 'All Clusters' to your 'local-cluster'.  <br><br>
+
+
  
  In the upper left hand corner of the dashboard, click on the 'All Clusters' drop down.  Choose 'local-cluster'<br>
 
-![](/images/Change2-localCluster.gif) <br>
+![](/images/Change2-localCluster.gif) <br><br>
 
 Now you will be in 'your' local OpenShift cluster.
 
-![](/images/your-local-cluster.gif)
+![](/images/your-local-cluster.gif)<br>
+
+Let's install the RHOAI Operator:  
+1. From the 'Operators' menu:  choose 'OperatorHub' 
+1. In the search field search for 'Red Hat OpenShift AI'
+1. Select the "Red Hat OpenShift AI" placard to install RHOAI
 
 
-
+![](/images/install-RHOAI.gif)
 
 
 <br><br>
