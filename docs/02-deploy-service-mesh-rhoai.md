@@ -58,8 +58,10 @@ To check your RHOAI operator installation, from the left hand menu, choose 'Oper
 Now that RHOAI Operator has been installed, you will need to install the Service Mesh operator.
 
 1. From the 'Operators' menu: choose 'OperatorHub'
-1. In the search field search for 'Red Hat OpenShift AI'
-1. Select the "Red Hat OpenShift AI" placard to install RHOAI
+1. In the search field search for 'Service Mesh'
+1. Select the "Red Hat OpenShift Service Mesh" placard to install Service Mesh <br><br>
+
+![](/images/service-Mesh.gif)<br><br>
 
 <p align="center">
 <a href="docs/01-add-trusted-pipeline.md">Prev</a>
