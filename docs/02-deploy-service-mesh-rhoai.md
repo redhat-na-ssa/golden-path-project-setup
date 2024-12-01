@@ -1,10 +1,12 @@
 ## Add Red Hat OpenShift AI and Service Mesh to your cluster
 
-You will need to log into OpenShift.  From the Trusted Application Pipeline options, look for the Red Hat OpenShift option.  Use the displayed Console URL, and supplied Username and Password to log into OpenShfit.
+You need to log into your OpenShift cluster
+
+From the Trusted Application Pipeline options, look for the Red Hat OpenShift option.  Use the displayed Console URL, and supplied Username and Password to log into OpenShfit.
 
 ![](/images/loginOCP.gif) <br><br>
 
-Upon login, you should see an OpenShift dashboard.<br>
+Upon login, you will see an OpenShift dashboard.<br>
 
 ![](/images/OCPDashboard.gif) <br>
 
