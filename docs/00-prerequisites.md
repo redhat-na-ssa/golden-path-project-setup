@@ -12,10 +12,10 @@ In order to use the Golden Path Template, you will need to create an OpenShift c
 1. Service mesh 
 1. Red Hat OpenShift AI
 1. MLFlow
-1. Golden Template
+1. Golden Path Template
 
 <br>
-<p align="center">To start setting up the demo material, click 
+<p align="center">Let's get started, click 
 <a href="/docs/01-add-trusted-pipeline.md">Next</a>
 </p>
 
