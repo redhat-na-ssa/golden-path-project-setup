@@ -32,7 +32,9 @@ In the terminal window, 'git clone https://github.com/redhat-na-ssa/mlflow-on-oc
 
 ![](/images/git-clone.gif) <br><br>
 
+In your terminal window, run the below README instructions.
 
+![](/images/MLflow-readme.gif) <br><br>
 
 
 
