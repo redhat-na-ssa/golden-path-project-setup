@@ -36,7 +36,21 @@ In your terminal window, run the below README instructions.
 
 ![](/images/MLflow-readme.gif) <br><br>
 
+Change into the 'mlflow-on-ocp' directory and execute the crunchy_subscription.yaml script.
 
+![](/images/crunchy-subscription.gif) <br><br>
+
+The script will create a 'crunchy-postgres-operator' in your cluster.
+
+![](/images/crunchy-postgres-operator.gif) <br><br>
+
+You can verify this by checking your cluster for the newly installed operator.  Go to Operators-> Installed Operators and search for 'Crunchy Postgres'.
+
+![](/images/verify-crunchy.gif) <br><br>
+
+Next execute the 'deploy.sh' script.
+
+![](/images/deploy-sh.gif) <br><br>
 
 <p align="center">Next, deploy the 'Golden Path'. &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
