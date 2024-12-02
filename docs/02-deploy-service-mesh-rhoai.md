@@ -51,7 +51,7 @@ Notice that the DataScience cluster appears within the Red Hat OpenShift AI Oper
 
 ![](/images/DSC-details.gif)<br><br>
 
-To check your RHOAI operator installation, from the left hand menu, choose 'Operators->Installed Operators'.  &nbsp; Search for the 'Red Hat OpenShift AI' operator.
+To check your RHOAI operator installation, from the left hand menu (of the OpenShift dashboard), choose 'Operators->Installed Operators'.  &nbsp; Search for the 'Red Hat OpenShift AI' operator.
 
 ![](/images/RHOAI-installed-operator.gif)<br><br>
 
@@ -63,7 +63,25 @@ Now that RHOAI Operator has been installed, you will need to install the Service
 
 ![](/images/service-Mesh.gif)<br><br>
 
-<p align="center">
+An 'Install' screen will appear with default Red Hat OpenShift Service Mesh channel options.  Keep the default channel options, and press 'Install'.<br>
+
+![](/images/install-service-mesh.gif)<br><br>
+
+Next, an 'Install Operator' screen will appear with remaining Service Mesh options.  Keep the default options and press 'Install' to being the installation process.
+
+![](/images/install-service-mesh2.gif)<br><br>
+
+The operator will begin to install.  This will take a few minutes.  Wait for the installation to finish.
+
+![](/images/install-service-mesh-msg.gif)<br>
+
+![](/images/service-mesh-operator-ready.gif)<br><br>
+
+Once the operator is installed, press the 'View Operator' button to view the operator.  
+
+![](/images/view-service-mesh-op.gif)<br><br>
+
+<p align="center">Next, you will next need to clone MLflow in your cluster. &nbsp;
 <a href="docs/01-add-trusted-pipeline.md">Prev</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/docs/03-clone-mlflow.md">Next</a>

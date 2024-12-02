@@ -13,11 +13,9 @@ You will need to fill out various options for your service.  Use the below form 
 Once you have finished ordering the service, wait until it is installed.  After your service has been installed you will see the following items listed in your newly created Red Hat Trusted Pipeline cluster 
 
 ![](/images/options1.gif) <br>
-![](/images/options2.gif) <br>
+![](/images/options2.gif) <br><br>
 
-Next, you will next need to deploy RHOAI and service mesh in your cluster.  
-
-<p align="center">
+<p align="center">Next, you will next need to deploy RHOAI and service mesh in your cluster. &nbsp;
 <a href="docs/00-prerequisites.md">Prev</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/docs/02-deploy-service-mesh-rhoai.md">Next</a>
