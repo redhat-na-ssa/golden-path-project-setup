@@ -16,24 +16,24 @@ Login with your cluster username and password.
 
 ![](/images/rhsso-login.gif) <br><br>
 
-After logging in, copy the 'Display Token'.
+After logging in, copy the 'oc login' token.
 
 ![](/images/copy-display-token.gif) <br><br>
 
-In the page that appears, choose 'Log in with this token' option.  Copy the 'oc login command' and press enter.  Press 'Y' to use the insecure connections? (y/n)
+Paste the token into your terminal window and press the 'enter' key.
+
+![](/images/paste-token.gif) <br><br>
+
+Press 'Y' to use the insecure connections? (y/n).  You are now logged into your openshift cluster, from your terminal window.
+
+![](/images/press-Y.gif) <br><br>
+
+In the terminal window, 'git clone https://github.com/redhat-na-ssa/mlflow-on-ocp' and follow the README. 
+
+![](/images/git-clone.gif) <br><br>
 
 
 
-You are now logged into your openshift cluster, from your terminal window.
-
-
-
-In the terminal window, clone https://github.com/redhat-na-ssa/mlflow-on-ocp and follow the README. 
-
-
-
-
-![](/images/loginOCP.gif) <br><br>
 
 
 <p align="center">Next, deploy the 'Golden Path'. &nbsp;
