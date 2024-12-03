@@ -22,10 +22,16 @@ Upon successful authorization you will enter the Red Hat Developer Hub Dashboard
 
 ![](/images/developer-hub-dashboard.gif) <br><br>
 
-Now we can create the Golden Path Template!  Select the 'Create' option from the Developer Hub menu.
+Now we can create the Golden Path Template!  
 
-![](/images/create.gif) <br><br>
+Select the 'Create' option from the Developer Hub menu.  The 'Software Templates' dashboard option will appear.  Then click the 'Register Existing Component' button
 
+![](/images/create-register.gif) <br><br>
+
+Use the git URL of the Golden Path Template:  https://github.com/redhat-na-ssa/ai-golden-path/blob/main/template.yaml, and enter that into the 'Select URL' text box.
+
+
+![](/images/golden-path-template-git-url.gif) <br><br>
 
 
 
