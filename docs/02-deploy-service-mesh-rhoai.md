@@ -61,7 +61,7 @@ Now that RHOAI Operator has been installed, you will need to install the Service
 1. In the search field search for 'Service Mesh'
 1. Select the "Red Hat OpenShift Service Mesh" placard to install Service Mesh <br><br>
 
-![](/images/service-Mesh.gif)<br><br>
+![](/images/service-mesh.gif)<br><br>
 
 An 'Install' screen will appear with default Red Hat OpenShift Service Mesh channel options.  Keep the default channel options, and press 'Install'.<br>
 
