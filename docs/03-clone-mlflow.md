@@ -64,6 +64,6 @@ Upon successful deployment, you will see the following execution messages appear
 
 <p align="center">Next, deploy the 'Golden Path'. &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="/docs/04-deploy-golden-path">Next</a>
 </p>
