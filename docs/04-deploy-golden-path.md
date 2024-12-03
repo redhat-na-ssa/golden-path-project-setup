@@ -68,13 +68,17 @@ Next, provide the 'Application Repository Information'.  The Repo Host will be t
 
 ![](/images/gitlab-url.gif) <br><br>
 
-Copy the entire URL and paste it into Repo Host url text box.
+Copy the entire URL and paste it into Repo Host url text box.  
 
+Note:  do not copy the first part of the url:  https://
 
+Leave the rest of the default options, and press 'Review' to continue.
 
+![](/images/no-https.gif) <br><br>
 
+All of the options you have entered, will now be displayed.  When you are done 'reviewing' the options you have chosen, click the 'Create' button.
 
-
+![](/images/create-template.gif) <br><br>
 
 	The Cluster Host Root will look something like this: ".apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
 	The Repo Host will look something like this: "gitlab-gitlab.apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
