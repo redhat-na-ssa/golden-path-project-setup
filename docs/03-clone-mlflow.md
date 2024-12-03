@@ -54,10 +54,13 @@ Next execute the 'deploy.sh' script.
 
 If you recieve an error message, 'Permission denied', you will need to change the  permissions on the file to allow execution.  Use the command 'CHMOD +x filename'
 
-![](/images/permission-denied.gif) <br><br>
+![](/images/permission-denied.gif) <br>
 
 ![](/images/change-chmod.gif) <br><br>
 
+Upon successful deployment, you will see the following execution messages appear:
+
+![](/images/deploy-script-msgs.gif) <br><br>
 
 <p align="center">Next, deploy the 'Golden Path'. &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
