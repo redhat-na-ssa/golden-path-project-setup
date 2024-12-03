@@ -48,9 +48,16 @@ You can verify this by checking your cluster for the newly installed operator.  
 
 ![](/images/verify-crunchy.gif) <br><br>
 
-Next execute the 'deploy.sh' script.
+Next execute the 'deploy.sh' script.  
 
 ![](/images/deploy-sh.gif) <br><br>
+
+If you recieve an error message, 'Permission denied', you will need to change the  permissions on the file to allow execution.  Use the command 'CHMOD +x filename'
+
+![](/images/permission-denied.gif) <br><br>
+
+![](/images/change-chmod.gif) <br><br>
+
 
 <p align="center">Next, deploy the 'Golden Path'. &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
