@@ -62,7 +62,9 @@ Upon successful deployment, you will see the following execution messages appear
 
 ![](/images/deploy-script-msgs.gif) <br><br>
 
-<p align="center">Next, deploy the 'Golden Path'. &nbsp;
+We are now ready to deploy the Golden Path Template.  We will be using Developer Hub in order to do this.  Let's get your Developer Hub instance started in the next section.  
+
+<p align="center"> &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
 &nbsp;&nbsp;
 <a href="/docs/04-deploy-golden-path">Next</a>
