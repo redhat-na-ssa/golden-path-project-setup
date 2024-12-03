@@ -28,10 +28,50 @@ Select the 'Create' option from the Developer Hub menu.  The 'Software Templates
 
 ![](/images/create-register.gif) <br><br>
 
-Use the git URL of the Golden Path Template:  https://github.com/redhat-na-ssa/ai-golden-path/blob/main/template.yaml, and enter that into the 'Select URL' text box.
-
+Use the git URL of the Golden Path Template:  https://github.com/redhat-na-ssa/ai-golden-path/blob/main/template.yaml, and enter that into the 'Select URL' text box and then press the Analyze button
 
 ![](/images/golden-path-template-git-url.gif) <br><br>
+
+Developer Hub will analyze the template to determine if it can be imported into the catalog.  Once the template is verfied, press the 'Import' button to import it into the catalog.
+
+Note:  if you have already imported the template (in a previous session), you would see a 'Refresh' button which you would press instead.
+
+![](/images/import.gif) <br><br>
+
+Once the template is registered, choose the 'Create' menu option.  The dashboard will display available templates, including the 'AI Template' which you just created.  Click the 'Choose' button to continue.
+
+![](/images/choose-AITemplate.gif) <br><br>
+
+In your AI Template, provide information about the AI Component.
+
+Add a Project Name (it will automatically default to 'ai-app') and Description.  Then press the 'Next' button.
+
+![](/images/ai-component-info.gif) <br><br>
+
+Next, provide Cluster and Image Registry Information.  Copy the apps.cluster url.  Make certain that it contains the 'opentlc.com' ending.  This is your 'Cluster Host Root' URL.  Replace the current .apps.cluster.com URL which is currently entered.
+
+![](/images/change-url.gif) <br><br>
+
+
+Click on the 'Image Registry*' text, it will change to 'OpenShift' and automatically populate it's location.  
+
+Note:  if you still only see 'OpenShift' with no 'Image Host' and 'Image Tag' information, double click the OpenShift text to make the default settings appear.  Then press the 'Next' button to continue.
+
+![](/images/image-registry.gif) <br><br>
+
+
+Next, provide the 'Application Repository Information'.  The Repo Host will be the gitlab instance URL. 
+
+![](/images/repo-host-url.gif) <br><br>
+
+ You can find this URL back in the Trusted Application Pipeline details page.  
+
+![](/images/gitlab-url.gif) <br><br>
+
+Copy the entire URL and paste it into Repo Host url text box.
+
+
+
 
 
 
