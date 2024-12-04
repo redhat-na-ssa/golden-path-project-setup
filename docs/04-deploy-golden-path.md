@@ -72,7 +72,7 @@ Copy the entire URL and paste it into Repo Host url text box.
 
 Note:  do not copy the first part of the url:  https://
 
-Leave the rest of the default options, and press 'Review' to continue.
+Leave the rest of the default options, and click the 'Review' button to continue.
 
 ![](/images/no-https.gif) <br><br>
 
