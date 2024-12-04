@@ -66,6 +66,6 @@ We are now ready to deploy the Golden Path Template.  We will be using Developer
 
 <p align="center"> &nbsp;
 <a href="docs/02-deploy-service-mesh-rhoai.md">Prev</a>
-&nbsp;&nbsp;
-<a href="/docs/04-deploy-golden-path">Next</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/docs/04-deploy-golden-path.md">Next</a>
 </p>
