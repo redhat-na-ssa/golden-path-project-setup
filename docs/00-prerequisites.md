@@ -1,6 +1,6 @@
 ## What is the Golden Path Template & its Prerequisites?
 
-AI can be complicated to deploy due to its many moving parts.  A company needs someone who understands model building, software development and infrastructure.  That is VERY rare.  Therefore we propose to simplify this process using a template (Golden Path Template) that addresses these items.  
+AI can be complicated to deploy due to its many moving parts.  A company needs someone who understands model building, data engineering, software development and infrastructure.  That is VERY rare.  Therefore we propose to simplify this process using a template (Golden Path Template) that addresses these items.  
 
 This template helps data scientists, and MLOps Engineers, with production model development and has been implemented with the following System Design in mind:
 
