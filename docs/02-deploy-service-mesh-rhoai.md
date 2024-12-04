@@ -10,7 +10,7 @@ Upon login, you will see an OpenShift dashboard.<br>
 
 ![](/images/OCPDashboard.gif) <br>
 
-We will use this dashboard to install KServe and Red Hat OpenShift AI (RHOAI). 
+We will use this dashboard to install Service Mesh and Red Hat OpenShift AI (RHOAI). 
  First, we will need to switch from 'All Clusters' to your 'local-cluster'.  <br><br>
 
 
