@@ -80,6 +80,26 @@ All of the options you have entered, will now be displayed.  When you are done '
 
 ![](/images/create-template.gif) <br><br>
 
+The 'ai-template' starts being generated.  When it has finished generating, you will see 'check marks' appear for all of the generation stages:
+
+1. Generating the Source Code Component
+1. Publish
+1. Generating Deployment Resources
+1. Publishing to a Resource Repository
+1. Create ArgoCD Resources
+1. Register
+
+<br>
+![](/images/ai-template.gif) <br><br>
+
+Let's check if our 'ai-app' shows up as one of our components.  Choose the 'Catalog' menu option.  Upon selection, you should see the 'ai-app' in the 'Owned Components' list.
+
+![](/images/owned-components.gif) <br><br>
+
+
+
+
+
 	The Cluster Host Root will look something like this: ".apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
 	The Repo Host will look something like this: "gitlab-gitlab.apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
 		Notice this does NOT have the leading https://
