@@ -95,11 +95,16 @@ Let's check if our 'ai-app' shows up as one of our components.  Choose the 'Cata
 
 ![](/images/owned-components.gif) <br><br>
 
-Click the component Name 'ai-app'.  You will be taken to a view where you can see the associated Links, Deployment summary, and Merge requests statistics.
+Click the component Name 'ai-app'.  You will have a view where you can observe ai-app:
+1. Links
+1. Deployment summary
+1. Merge requests statistics.<br><br>
+
 
 ![](/images/view-ai-app.gif) <br><br>
 
 
+... need to get Arun's updates so that the 'mlflow' option appears in the top menu
 
 <p align="center">
 <a href="docs/03-clone-mlflow.md">Prev</a>
