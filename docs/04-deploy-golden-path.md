@@ -87,22 +87,19 @@ The 'ai-template' starts being generated.  When it has finished generating, you 
 1. Generating Deployment Resources
 1. Publishing to a Resource Repository
 1. Create ArgoCD Resources
-1. Register
+1. Register 
 
-<br>
 ![](/images/ai-template.gif) <br><br>
 
 Let's check if our 'ai-app' shows up as one of our components.  Choose the 'Catalog' menu option.  Upon selection, you should see the 'ai-app' in the 'Owned Components' list.
 
 ![](/images/owned-components.gif) <br><br>
 
+Click the component Name 'ai-app'.  You will be taken to a view where you can see the associated Links, Deployment summary, and Merge requests statistics.
+
+![](/images/view-ai-app.gif) <br><br>
 
 
-
-
-	The Cluster Host Root will look something like this: ".apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
-	The Repo Host will look something like this: "gitlab-gitlab.apps.cluster-9dqks.9dqks.sandbox413.opentlc.com"
-		Notice this does NOT have the leading https://
 
 <p align="center">
 <a href="docs/03-clone-mlflow.md">Prev</a>
