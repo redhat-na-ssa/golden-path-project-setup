@@ -17,7 +17,7 @@ The Golden Path Template, utlizes Red Hat products to create a templated MLOps p
 
 ![](/images/system-design.gif) <br><br>
 
-## Setup Steps
+## Setup Instructions
 
 0. [Prerequisites](/docs/00-prerequisites.md)
 1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
