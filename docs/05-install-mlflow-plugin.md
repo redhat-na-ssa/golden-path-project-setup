@@ -1,9 +1,13 @@
-## Using the Golden Path Template
+## Install the MLFlow Plugin
 
 
 
 
 
-<p align="center">Next, deploy the 'Golden Path'. &nbsp;
-<a href="/docs/04-deploy-golden-path">Prev</a>
+Next, we will use the Golden Path Template.  
+
+<p align="center">
+<a href="docs/04-deploy-golden-path.md">Prev</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/docs/06-using-golden-path.md">Next</a>
 </p>

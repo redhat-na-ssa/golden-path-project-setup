@@ -4,6 +4,8 @@
 
 
 
-<p align="center">Next, deploy the 'Golden Path'. &nbsp;
-<a href="/docs/04-deploy-golden-path">Prev</a>
+
+
+<p align="center">
+<a href="docs/05-install-mlflow-plugin.md">Prev</a>
 </p>
