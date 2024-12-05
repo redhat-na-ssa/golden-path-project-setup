@@ -1,12 +1,21 @@
-## NA-Hobbyist  AI-Odyssey-2025  Setup Instructions
+## NA-Hobbyist AI Odyssey Demo - Golden Path Template
+We are from a company called “Hatter Maps” and our product uses live traffic cameras to make real-time predictions about traffic congestion to recommend alternative routes.
+
+One of our data scientists made a change to the model and caused a production outage (high traffic images are being miscategorized as no traffic images). 
+
+In this demo we leverage Red Hat products to create a templated MLOps platform with guardrails such as smoke tests, approval gates, and CI/CD without impeding the important progress of our data science teams.
+
+Using Developer Hub, we are able to easily reproduce and redeploy this templated MLops platform for other data science projects.
 
 
 ## Description
-This README.md contains setup instructions for the NA-Hobbyist team's AI-Odyssey 2025 demo
+This README.md contains setup instructions for the NA-Hobbyist team's AI-Odyssey 2025 demo - The Golden Path Template
 
 
 ## Architecture
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+The Golden Path Template, utlizes Red Hat products to create a templated MLOps platform with guardrails such as smoke tests, approval gates, and CI/CD without impeding the progress of Data Science and ML Engineering teams.
+
+![](/images/system-design.gif) <br><br>
 
 ## Setup Steps
 
