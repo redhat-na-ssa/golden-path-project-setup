@@ -14,8 +14,9 @@ Depending on what you are making, it can be a good idea to include screenshots o
 1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
 1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md)
 1. [Clone mlflow on ocp](/docs/03-clone-mlflow.md)
-1. [Log into Red Hat Developer Hub and add Golden Path Template](/docs/04-deploy-golden-path.md)
-1. [Create the template](/docs05-create-template.md)
+1. [Deploy the Golden Path Template](/docs/04-deploy-golden-path.md)
+1. [Install the MLFlow plugin](/docs/05-install-mlflow-plugin.md)
+1. [Using the Golden Path Template](/docs/06-using-golden-path.md)
 
 ## Support
 For questions and/or support please contact [bball@redhat.com](mailto:bball@redhat.com?subject=Question%20Re:%20NA-Hobbyist-AI-Odyssey-2025)
