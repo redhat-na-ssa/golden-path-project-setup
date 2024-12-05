@@ -1,4 +1,4 @@
-## NA-Hobbyist AI Odyssey Demo - Golden Path Template
+## NA-Hobbyist AI Odyssey 2025 Demo - Golden Path Template
 We are from a company called “Hatter Maps” and our product uses live traffic cameras to make real-time predictions about traffic congestion to recommend alternative routes.
 
 One of our data scientists made a change to the model and caused a production outage (high traffic images are being miscategorized as no traffic images). 
