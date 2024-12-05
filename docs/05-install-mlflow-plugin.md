@@ -1,9 +1,11 @@
 ## Install the MLFlow Plugin
 
+Go to the https://gitlab.consulting.redhat.com/ai-odyssey-2025/na-hobbyists/demo-project folder.
+
+We are first going to create a personal access token inside of gitlab.
 
 
-
-
+<BR><BR><BR>
 Next, we will use the Golden Path Template.  
 
 <p align="center">
