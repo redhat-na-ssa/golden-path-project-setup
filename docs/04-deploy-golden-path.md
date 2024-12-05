@@ -104,11 +104,11 @@ Click the component Name 'ai-app'.  You will have a view where you can observe a
 ![](/images/view-ai-app.gif) <br><br>
 
 
-... need to get Arun's updates so that the 'mlflow' option appears in the top menu
+Next, we will install the MLFlow plugin into the Trusted Application Pipeline.  
 
 <p align="center">
 <a href="docs/03-clone-mlflow.md">Prev</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/docs/05-using-golden-path.md">Next</a>
+<a href="/docs/05-install-mlflow-plugin.md">Next</a>
 </p>
 
