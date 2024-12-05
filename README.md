@@ -22,7 +22,7 @@ The Golden Path Template, utlizes Red Hat products to create a templated MLOps p
 0. [Prerequisites](/docs/00-prerequisites.md)
 1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
 1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md)
-1. [Clone mlflow on ocp](/docs/03-clone-mlflow.md)
+1. [Clone MLFlow on ocp](/docs/03-clone-mlflow.md)
 1. [Deploy the Golden Path Template](/docs/04-deploy-golden-path.md)
 1. [Install the MLFlow plugin](/docs/05-install-mlflow-plugin.md)
 1. [Using the Golden Path Template](/docs/06-using-golden-path.md)
