@@ -77,3 +77,7 @@ And finally here is the new section we added.  This is how we verify that our ch
 Next go back to the OpenShift dashboard and select Workloads -> Pods.  You'll see the backstage initializing and spinning up.  It will take a few minutes as the init container does a lot of installs.
 
 ![](/images/backstage-spinning-up.gif) <br><br>
+
+Once everything is set, you can go back to 'backstage', and click the 'create' button.
+
+![](/images/click-the-create-button.gif) <br><br>
