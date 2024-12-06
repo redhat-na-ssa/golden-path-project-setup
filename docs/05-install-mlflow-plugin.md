@@ -63,9 +63,42 @@ Your file will be replaced.  Notice that the namespace 'backstage' has been adde
 
 ## 2 - Update the File
  
+From the Trusted Application Pipeline, Log into GitLab.
+
+![](/images/log-into-gitlab2.gif) <br><br>
+
+From the 'Projects' page change into the 'gitops/janus-idp-gitops' directory.
+
+![](/images/gitlab-projects-page.gif) <br><br>
+
+
+Under janus-idp-gitops/charts/backstage directory, update backstage-rhtap-values.yaml 
+
+![](/images/replace-backstage-file.gif) <br><br>
+
+with rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
+
+![](/images/replace-backstage-file2.gif) <br><br>
+
+The easiest way to update the file, is to copy the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml file file contents to a clipboard.  
+
+Then paste the changes into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
 
 
 
+Once the file has been uploaded, select the 'Replace File' button.
+
+
+
+Your file will be replaced.  Notice that the namespace 'backstage' has been added, and the data '.npmrc' content has changed.
+
+
+
+<BR>
+
+
+
+<br><br>
 ## For the entity to mlflow tab display the annotation needs to be there in  catalog-info.yaml
 mlflow.org/experiment-name: <<Experiment Name from MLFLow>>   
 
