@@ -9,7 +9,7 @@ It is only meant for local development, and the setup for it can be found inside
 
 To install the mlflow plugin, you need to identify the project janus-idp-gitops in gitlab.
 
-The following changes needs to updated on this gitrepo.
+The following files changes must be made in this gitrepo.
 
 1) Replace the file `dynamic-plugins-npmrc.yaml` under `gitops/janus-idp-gitops/-/blob/main/charts/backstage/templates/dynamic-plugins-npmrc.yaml` with `TAPDemoChanges/dynamic-plugins-npmrc.yaml`
 
@@ -76,7 +76,7 @@ Under janus-idp-gitops/charts/backstage directory, update backstage-rhtap-values
 
 ![](/images/replace-backstage-file.gif) <br><br>
 
-with rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
+with the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
 
 ![](/images/replace-backstage-file2.gif) <br><br>
 
@@ -89,11 +89,6 @@ Then paste the changes into the Janus-idp-gitops/charts/backstage/ backstage-rht
 ![](/images/paste-file.gif) <br><br>
 
 Once you have copied the contents over, save the file Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml.
-
-
-
-<BR>
-
 
 
 <br><br>
