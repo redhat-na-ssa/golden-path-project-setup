@@ -8,6 +8,9 @@ In the 'Links' section, choose 'OpenShift Dev Spaces'.<br>
 
 ![](/images/ai-api-contents.gif)<BR><BR>
 
+You may need to log into OpenShift. <br>
+
+![](/images/ai-api-login-ocp.gif)<BR><BR>
 
 
 
