@@ -56,4 +56,6 @@ There are 4 steps we will use to test and update our model:
 <br>
 <p align="center">
 <a href="docs/05-install-mlflow-plugin.md">Prev</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/docs/07-appendix-setup-pers-access-token.md">Next</a>
 </p>
