@@ -42,4 +42,4 @@ For questions and/or support please contact [bball@redhat.com](mailto:bball@redh
 GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Project status
-Initial project UI, architecture, codebase almost completed for Dec 6 submission
+Initial project UI, architecture, codebase, instructions completed for Dec 6 deadline.
