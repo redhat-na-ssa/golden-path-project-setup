@@ -107,3 +107,11 @@ Open the demo project (back in our AI Odyssey gitlab) and open the file 'templat
 Copy the URL for this file, exactly as it appears.
 
 ![](/images/copy-url.gif) <br><br>
+
+Go back to 'Register an existing component' and paste the url in the 'Select URL' text box.  Click the 'Analyze' button and the defaults should appear.
+
+![](/images/paste-url.gif) <br>
+
+<br>
+<p align="center">
+<a href="docs/06-using-golden-path.md">Prev</a>
