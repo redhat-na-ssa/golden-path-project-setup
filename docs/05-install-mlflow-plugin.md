@@ -63,7 +63,7 @@ Your file will be replaced.  Notice that the namespace 'backstage' has been adde
 
 <BR>
 
-## 2 - Update the File
+## '2 - Update the File'
  
 From the Trusted Application Pipeline, Log into GitLab.
 
@@ -74,11 +74,11 @@ From the 'Projects' page change into the 'gitops/janus-idp-gitops' directory.
 ![](/images/gitlab-projects-page.gif) <br><br>
 
 
-Under janus-idp-gitops/charts/backstage directory, update backstage-rhtap-values.yaml 
+Under janus-idp-gitops/charts/backstage directory, update backstage-rhtap-values.yaml file
 
 ![](/images/replace-backstage-file.gif) <br><br>
 
-with some of the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
+with some of the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml file.
 
 ![](/images/replace-backstage-file2.gif) <br><br>
 
@@ -87,15 +87,15 @@ From backstage-rhtap-value-changes.yaml select lines 25-27
 <!--- ![](/images/copy-file.gif) <br> --->
 ![](/images/copy-file-v2.gif) <br><br>
 
-Then paste these changes (after 'appConfig:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+Then paste these lines (after 'appConfig:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
 
 ![](/images/insert-copied-lines.gif) <br><br>
 
-Update the cluster name and sandbox in the copied lines.<br>
+Make certain to update the cluster name and sandbox in the copied lines.<br>
 
 ![](/images/update-cluster-sandbox.gif) <br><br>
 
-Cluster and sandbox names should now match: <br>
+The cluster and sandbox names should now match: <br>
 
 ![](/images/update-cluster-sandbox.gif) <br>
 
