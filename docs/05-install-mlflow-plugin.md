@@ -6,8 +6,6 @@ You can also serve the plugin in isolation by running yarn start in the plugin d
 
 It is only meant for local development, and the setup for it can be found inside the /dev directory.
 
-Note:  you will need to set up a personal access token.  Instructions for setup are found in <a href="/docs/07-appendix-setup-pers-access-token.md">Appendix A</a>
-</p>
 
 ## Installing the plugin in the TAP demo
 

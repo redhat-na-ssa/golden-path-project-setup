@@ -106,6 +106,9 @@ Click the component Name 'ai-app'.  You will have a view where you can observe a
 
 Next, we will install the MLFlow plugin into the Trusted Application Pipeline.  
 
+Note:  you will need to set up a personal access token.  Instructions for setup are found in <a href="/docs/07-appendix-setup-pers-access-token.md">Appendix A</a>
+</p>
+
 <p align="center">
 <a href="docs/03-clone-mlflow.md">Prev</a>
 &nbsp;&nbsp;&nbsp;
