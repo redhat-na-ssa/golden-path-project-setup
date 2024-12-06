@@ -1,8 +1,23 @@
 ## Install the MLFlow Plugin
 
-Go to the https://gitlab.consulting.redhat.com/ai-odyssey-2025/na-hobbyists/demo-project folder.
+Your plugin has been added to the example app in this repository, meaning you'll be able to access it by running yarn start in the root directory, and then navigating to /mlflow-frontend-dynamic. 
 
-We are first going to create a personal access token inside of gitlab.
+You can also serve the plugin in isolation by running yarn start in the plugin directory. This method of serving the plugin provides quicker iteration speed and a faster startup and hot reloads.
+It is only meant for local development, and the setup for it can be found inside the /dev directory.
+
+To install the mlflow plugin, you need to identify the project janus-idp-gitops in gitlab.
+
+From the Trusted Application Pipeline, Log into GitLab.
+
+![](/images/log-into-gitlab2.gif) <br><br>
+
+From the 'Projects' page change into the 'gitops/janus-idp-gitops' directory.
+
+![](/images/gitlab-projects-page.gif) <br><br>
+
+Under janus-idp-gitops/charts/backstage/templates, replace dynamic-plugins-npmrc.yaml with TAPDemoChanges/dynamic-plugins-npmrc.yaml
+
+![](/images/replace-file.gif) <br><br>
 
 
 <BR><BR><BR>
