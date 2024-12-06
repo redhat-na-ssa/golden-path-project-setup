@@ -78,17 +78,20 @@ Under janus-idp-gitops/charts/backstage directory, update backstage-rhtap-values
 
 ![](/images/replace-backstage-file.gif) <br><br>
 
-with the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
+with some of the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml 
 
 ![](/images/replace-backstage-file2.gif) <br><br>
 
-The easiest way to update the file, is to copy the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml file file contents to a clipboard.  
+From backstage-rhtap-value-changes.yaml select lines 24-27 
 
-![](/images/copy-file.gif) <br><br>
+![](/images/copy-file.gif) <br>
 
-Then paste the changes into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+![](/images/copy-file-v2.gif) <br><br>
 
-![](/images/paste-file.gif) <br><br>
+Then paste these changes (after line 229) of the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+
+![](/images/paste-file.gif) <br>
+![](/images/paste-file-v2.gif) <br><br>
 
 Once you have copied the contents over, save the file Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml.
 
