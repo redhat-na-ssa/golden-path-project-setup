@@ -19,14 +19,14 @@ The Golden Path Template, utlizes Red Hat products to create a templated MLOps p
 
 ## Setup Instructions
 
-0. [Prerequisites](/docs/00-prerequisites.md)
-1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md)
-1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md)
-1. [Clone MLFlow on OCP](/docs/03-clone-mlflow.md)
-1. [Deploy the Golden Path Template](/docs/04-deploy-golden-path.md)
-1. [Install the MLFlow plugin](/docs/05-install-mlflow-plugin.md)
-1. [Using the Golden Path Template](/docs/06-using-golden-path.md)
-1. [Appendix A - set up a personal access token](/docs/07-appendix-setup-pers-access-token.md)
+0. [Prerequisites](/docs/00-prerequisites.md) - An overview of requirements to use the golden path template and the architecture it produces.
+1. [Add Trusted Application Pipeline](/docs/01-add-trusted-pipeline.md) - How to get a Trusted Application Pipeline cluster for running the golden path on.
+1. [Deploy Service Mesh and OpenShift AI using the web console](/docs/02-deploy-service-mesh-rhoai.md) - How to minimally configure OpenShift AI and its dependencies for the golden path.
+1. [Clone MLFlow on OCP](/docs/03-clone-mlflow.md) - How to set up MLFlow for the golden path to use as its model registry.
+1. [Deploy the Golden Path Template](/docs/04-deploy-golden-path.md) - Instructions on how to add the golden path template to Developer Hub and use it. **This can be considered main demo instructions.** (As opposed to setup)
+1. [Install the MLFlow plugin](/docs/05-install-mlflow-plugin.md) - Installation of a plugin so you can track your MLFlow models in Developer Hub.
+1. [Using the Golden Path Template](/docs/06-using-golden-path.md) - How to take the output of the golden path and add logic and other deployments to set up the traffic congestion demo. **This can be considered main demo instructions.** (As opposed to setup)
+1. [Appendix A - set up a personal access token](/docs/07-appendix-setup-pers-access-token.md) - How to use a GitLab personal access token to be able to add the golden path template to Developer Hub using the AI Odyssey repository.
 
 ## Support
 For questions and/or support please contact [bball@redhat.com](mailto:bball@redhat.com?subject=Question%20Re:%20NA-Hobbyist-AI-Odyssey-2025)
