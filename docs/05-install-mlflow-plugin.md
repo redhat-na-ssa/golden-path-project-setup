@@ -9,6 +9,16 @@ It is only meant for local development, and the setup for it can be found inside
 
 To install the mlflow plugin, you need to identify the project janus-idp-gitops in gitlab.
 
+The following changes needs to updated on this gitrepo.
+
+1) Replace the file `dynamic-plugins-npmrc.yaml` under `gitops/janus-idp-gitops/-/blob/main/charts/backstage/templates/dynamic-plugins-npmrc.yaml` with `TAPDemoChanges/dynamic-plugins-npmrc.yaml`
+
+2) Update the file `gitops/janus-idp-gitops/-/blob/main/charts/backstage/backstage-rhtap-values.yaml?ref_type=heads` with contents from `TAPDemoChanges/backstage-rhtap-value-changes.yaml`
+
+<BR>
+
+## '1 - Replace the file'
+
 From the Trusted Application Pipeline, Log into GitLab.
 
 ![](/images/log-into-gitlab2.gif) <br><br>
@@ -50,7 +60,16 @@ Your file will be replaced.  Notice that the namespace 'backstage' has been adde
 ![](/images/file-changes.gif) <br><br>
 
 <BR>
+
+## 2 - Update the File
  
+
+
+
+## For the entity to mlflow tab display the annotation needs to be there in  catalog-info.yaml
+mlflow.org/experiment-name: <<Experiment Name from MLFLow>>   
+
+<br><br>
 <center>Next, we will use the Golden Path Template. &nbsp; </center><br>
 
 <p align="center">
