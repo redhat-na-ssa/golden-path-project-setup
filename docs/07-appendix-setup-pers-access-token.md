@@ -81,3 +81,29 @@ Next go back to the OpenShift dashboard and select Workloads -> Pods.  You'll se
 Once everything is set, you can go back to 'backstage', and click the 'create' button.
 
 ![](/images/click-the-create-button.gif) <br><br>
+
+Log in through the Backstage Authentication Realm.
+
+![](/images/backstage-authentication-realm.gif) <br><br>
+
+Authorize Key Cloak
+
+![](/images/authorize-key-cloak2.gif) <br><br>
+
+
+Register the existing component.
+
+![](/images/register-existing-component.gif) <br>
+![](/images/register-existing-component2.gif) <br><br>
+
+Go back to backstage-rhtap-values.yaml and look at 'Integrations'
+
+![](/images/backstage-integrations.gif) <br><br>
+
+Open the demo project (back in our AI Odyssey gitlab) and open the file 'template.yaml'
+
+![](/images/select-template-yaml.gif) <br><br>
+
+Copy the URL for this file, exactly as it appears.
+
+![](/images/copy-url.gif) <br><br>
