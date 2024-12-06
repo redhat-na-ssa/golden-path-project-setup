@@ -12,10 +12,19 @@ You may need to log back into OpenShift. <br>
 
 ![](/images/ai-api-login-ocp.gif)<BR>
 
-![](/images/ai-api-login-ocp2.gif)<BR><BR>
+![](/images/ai-api-login-ocp2.gif)<BR><br>
 
+You will be asked if you trust the authors of this repository.  Select 'Continue'<br>
 
+![](/images/trust-authors.gif)<BR><BR>
 
+Dev Spaces will request access to your account on Gitlab community.  Select 'Authorize Devspaces' to continue.<br>
+
+![](/images/devspaces-request-access.gif)<BR>
+
+YOu will be asked if you trust the authors, select 'Yes, I trust the authors'. <br>
+
+![](/images/trust-authors2.gif)<BR>
 
 
 
