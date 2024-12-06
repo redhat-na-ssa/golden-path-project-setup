@@ -82,25 +82,31 @@ with some of the contents of rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backsta
 
 ![](/images/replace-backstage-file2.gif) <br><br>
 
-From backstage-rhtap-value-changes.yaml select lines 24-27 
+From backstage-rhtap-value-changes.yaml select lines 25-27 
 
-![](/images/copy-file.gif) <br>
-
+<!--- ![](/images/copy-file.gif) <br> --->
 ![](/images/copy-file-v2.gif) <br><br>
 
-Then paste these changes (after line 229) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+Then paste these changes (after 'appConfig:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
 
-![](/images/paste-file.gif) <br>
-![](/images/paste-file-v2.gif) <br><br>
+![](/images/insert-copied-lines.gif) <br><br>
 
-Once you have copied the contents over, save the file Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml.
+Update the cluster name and sandbox in the copied lines.<br>
 
+![](/images/update-cluster-sandbox.gif) <br><br>
 
-<br><br>
+Cluster and sandbox names should now match: <br>
+
+![](/images/update-cluster-sandbox.gif) <br>
+
+Save and exit out of the file.
+
+<br>
+
 ## For the entity to mlflow tab display the annotation needs to be there in  catalog-info.yaml
 mlflow.org/experiment-name: <<Experiment Name from MLFLow>>   
 
-<br><br>
+<br>
 <center>Next, we will use the Golden Path Template. &nbsp; </center><br>
 
 <p align="center">
