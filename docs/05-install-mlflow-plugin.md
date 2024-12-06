@@ -97,13 +97,23 @@ Make certain to update the cluster name and sandbox in the copied lines.<br>
 
 The cluster and sandbox names should now match: <br>
 
-![](/images/update-cluster-sandbox.gif) <br>
+![](/images/update-cluster-sandbox.gif) <br><br>
+
+
+We have one more section to copy.  Copy the MLFlow Backend and Frontend packages from backstage-rhtap-value-changes.yaml
+
+![](/images/copy-packages.gif) <br><br>
+
+Paste these lines (under the 'Plugins:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+
+![](/images/paste-packages1.gif) <br>
+![](/images/paste-packages2.gif) <br>
 
 Save and exit out of the file.
 
 <br>
 
-## For the entity to mlflow tab display the annotation needs to be there in  catalog-info.yaml
+## For the entity to mlflow tab display the annotation needs to be there in  catalog-info.
 mlflow.org/experiment-name: <<Experiment Name from MLFLow>>   
 
 <br>
