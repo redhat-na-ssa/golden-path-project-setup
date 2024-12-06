@@ -1,8 +1,20 @@
 ## Using the Golden Path Template
 
+From Developer Hub, select the 'ai-app' application that we created previously in section 04 - deploy-golden-path.
+
+![](/images/select-ai-api.gif)<BR><br>
+
+In the 'Links' section, choose 'OpenShift Dev Spaces'.<br>
+
+![](/images/ai-api-contents.gif)<BR><BR>
 
 
-![](/images/model-with-approval-gates.gif)
+
+
+
+
+
+
 
 <br>
 <p align="center">
