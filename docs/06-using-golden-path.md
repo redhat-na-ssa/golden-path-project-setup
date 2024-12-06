@@ -24,8 +24,10 @@ Dev Spaces will request access to your account on Gitlab community.  Select 'Aut
 
 YOu will be asked if you trust the authors, select 'Yes, I trust the authors'. <br>
 
-![](/images/trust-authors2.gif)<BR>
+![](/images/trust-authors2.gif)<BR><br>
 
+The 'Dev Spaces' dashboard will appear. <br>
+![](/images/devspaces-workspace.gif)<BR><br>
 
 
 <br>
