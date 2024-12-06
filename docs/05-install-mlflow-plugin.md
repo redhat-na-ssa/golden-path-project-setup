@@ -27,7 +27,9 @@ Note:  that the TAPDemoChanges directory is in a different gitlab location:  htt
 
 The easiest way to replace the file, is to download the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ dynamic-plugins-npmrc.yaml file to your PC.
 
-Open the janus-idp-gitops/charts/backstage/templates/dynamic-plugins-npmrc.yaml file
+Open the janus-idp-gitops/charts/backstage/templates/dynamic-plugins-npmrc.yaml file and select the 'Replace' button.
+
+![](/images/replace3.gif) <br><br>
 
 
 
