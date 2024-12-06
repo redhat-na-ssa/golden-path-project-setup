@@ -82,15 +82,13 @@ with rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.y
 
 The easiest way to update the file, is to copy the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ backstage-rhtap-value-changes.yaml file file contents to a clipboard.  
 
+![](/images/copy-file.gif) <br><br>
+
 Then paste the changes into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
 
+![](/images/paste-file.gif) <br><br>
 
-
-Once the file has been uploaded, select the 'Replace File' button.
-
-
-
-Your file will be replaced.  Notice that the namespace 'backstage' has been added, and the data '.npmrc' content has changed.
+Once you have copied the contents over, save the file Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml.
 
 
 
