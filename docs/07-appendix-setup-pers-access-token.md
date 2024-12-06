@@ -37,3 +37,23 @@ Open the file and search for 'integrations'.
 Inside the 'Integrations' section, there will be a gitlab section.  It will automatically fill in one of the sections which is this instance of gitlab.
 
 ![](/images/autofill-section.gif) <br><br>
+
+We need to add another section, which is the consulting gitlab which is the AI Odyssey gitlab.  The API, base url and host are all going to be the same every single time because it's static.  The 'token' is going to be the 'token' we saved earlier.
+
+![](/images/earlier-token.gif) <br><br>
+
+Next, go to OpenShift.  Choose Networking->routes, and choose the openshift gitops project.
+
+![](/images/choose-gitops.gif) <br><br>
+
+We want the routes.  Note: this argocd-server is different that the one listed on the demo platform console.  Click on it's associate 'location' link.
+
+![](/images/associated-location.gif) <br><br>
+
+You will see the Argo instance.  In this page you will see different applications running.  Click into 'backstage'
+
+![](/images/select-backstage.gif) <br><br>
+
+Select the 'tiny triangle' on the end of the 'Refresh' button, until it shows the text 'hard refresh'.  Click on the 'hard refresh' text.  This will start things to cycle.
+
+![](/images/click-tiny-button.gif) <br><br>
