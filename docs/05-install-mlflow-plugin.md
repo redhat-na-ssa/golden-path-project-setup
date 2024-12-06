@@ -25,13 +25,27 @@ Note:  that the TAPDemoChanges directory is in a different gitlab location:  htt
 
 ![](/images/replace2.gif) <br><br>
 
-The easiest way to replace the file, is to download the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ dynamic-plugins-npmrc.yaml file to your PC.
+The easiest way to replace the file, is to download the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ dynamic-plugins-npmrc.yaml file onto your PC.
 
-Open the janus-idp-gitops/charts/backstage/templates/dynamic-plugins-npmrc.yaml file and select the 'Replace' button.
+Then open the janus-idp-gitops/charts/backstage/templates/dynamic-plugins-npmrc.yaml file and select the 'Replace' button.
 
 ![](/images/replace3.gif) <br><br>
 
+When the 'Replace dynamic-plugins-npmrc.yaml' file appears, select the 'upload' hyperlink.
 
+![](/images/upload-file.gif) <br><br>
+
+The File Manager will appear for your PC, select the dynamic-plugins-npmrc.yaml file that you downloaded earlier to your PC.
+
+![](/images/select-file.gif) <br><br>
+
+Once the file has been uploaded, select the 'Replace File' button.
+
+![](/images/replace-file2.gif) <br><br>
+
+Your file will be replaced.  Notice that the namespace 'backstage' has been added, and the data '.npmrc' content has changed.
+
+![](/images/file-changes.gif) <br><br>
 
 <BR><BR><BR>
 Next, we will use the Golden Path Template.  
