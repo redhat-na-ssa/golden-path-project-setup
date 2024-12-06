@@ -88,7 +88,7 @@ From backstage-rhtap-value-changes.yaml select lines 24-27
 
 ![](/images/copy-file-v2.gif) <br><br>
 
-Then paste these changes (after line 229) of the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+Then paste these changes (after line 229) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
 
 ![](/images/paste-file.gif) <br>
 ![](/images/paste-file-v2.gif) <br><br>
