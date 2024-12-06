@@ -15,9 +15,20 @@ From the 'Projects' page change into the 'gitops/janus-idp-gitops' directory.
 
 ![](/images/gitlab-projects-page.gif) <br><br>
 
-Under janus-idp-gitops/charts/backstage/templates, replace dynamic-plugins-npmrc.yaml with TAPDemoChanges/dynamic-plugins-npmrc.yaml
+Under janus-idp-gitops/charts/backstage/templates directory, replace dynamic-plugins-npmrc.yaml 
 
-![](/images/replace-file.gif) <br><br>
+![](/images/replace1.gif) <br><br>
+
+with rhdh-mlflow-plugin-frontend/TAPDemoChanges/ dynamic-plugins-npmrc.yaml. 
+
+Note:  that the TAPDemoChanges directory is in a different gitlab location:  https://gitlab.consulting.redhat.com/ai-odyssey-2025/na-hobbyists
+
+![](/images/replace2.gif) <br><br>
+
+The easiest way to replace the file, is to download the rhdh-mlflow-plugin-frontend/TAPDemoChanges/ dynamic-plugins-npmrc.yaml file to your PC.
+
+Open the janus-idp-gitops/charts/backstage/templates/dynamic-plugins-npmrc.yaml file
+
 
 
 <BR><BR><BR>
