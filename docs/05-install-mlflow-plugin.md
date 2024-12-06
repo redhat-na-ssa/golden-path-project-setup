@@ -104,7 +104,7 @@ We have one more section to copy.  Copy the MLFlow Backend and Frontend packages
 
 ![](/images/copy-packages.gif) <br><br>
 
-Paste these lines (under the 'Plugins:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file
+Paste these lines (under the 'Plugins:' heading) into the Janus-idp-gitops/charts/backstage/ backstage-rhtap-values.yaml file.  There are no url or sandbox names to update in this section.
 
 ![](/images/paste-packages1.gif) <br>
 ![](/images/paste-packages2.gif) <br>
