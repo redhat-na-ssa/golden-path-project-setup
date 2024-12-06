@@ -57,3 +57,23 @@ You will see the Argo instance.  In this page you will see different application
 Select the 'tiny triangle' on the end of the 'Refresh' button, until it shows the text 'hard refresh'.  Click on the 'hard refresh' text.  This will start things to cycle.
 
 ![](/images/click-tiny-button.gif) <br><br>
+
+Go to your OpenShift dashboard.  Choose Workloads -> ConfigMaps and look for the 'backstage' project.
+
+![](/images/backstage-project.gif) <br><br>
+
+You will see the backstage-developer-hub-app-config.  Select the link so that you can see the details.
+
+![](/images/backstage-developer-hub-app-config.gif) <br><br>
+
+Click the YAML option.  This YAML should look familiar, because it is the YAML that we updated in gitlab.
+
+![](/images/updated-yaml.gif) <br><br>
+
+And finally here is the new section we added.  This is how we verify that our changed have actually rolled out.  You can select the 'Cancel' button to exit.
+
+![](/images/verify-changes.gif) <br><br>
+
+Next go back to the OpenShift dashboard and select Workloads -> Pods.  You'll see the backstage initializing and spinning up.  It will take a few minutes as the init container does a lot of installs.
+
+![](/images/backstage-spinning-up.gif) <br><br>
