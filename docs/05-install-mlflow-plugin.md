@@ -47,8 +47,9 @@ Your file will be replaced.  Notice that the namespace 'backstage' has been adde
 
 ![](/images/file-changes.gif) <br><br>
 
-<BR><BR><BR>
-Next, we will use the Golden Path Template.  
+<BR>
+ 
+<center>Next, we will use the Golden Path Template. &nbsp; </center><br>
 
 <p align="center">
 <a href="docs/04-deploy-golden-path.md">Prev</a>
