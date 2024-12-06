@@ -3,7 +3,11 @@
 Your plugin has been added to the example app in this repository, meaning you'll be able to access it by running yarn start in the root directory, and then navigating to /mlflow-frontend-dynamic. 
 
 You can also serve the plugin in isolation by running yarn start in the plugin directory. This method of serving the plugin provides quicker iteration speed and a faster startup and hot reloads.
+
 It is only meant for local development, and the setup for it can be found inside the /dev directory.
+
+Note:  you will need to set up a personal access token.  Instructions for setup are found in <a href="/docs/07-appendix-setup-pers-access-token.md">Appendix A</a>
+</p>
 
 ## Installing the plugin in the TAP demo
 
